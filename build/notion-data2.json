@@ -1,0 +1,1730 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8095-9005-e627e6891f86",
+      "created_time": "2025-07-01T19:33:00.000Z",
+      "last_edited_time": "2025-07-01T19:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6bf1e6c-ae7b-4daf-a8e9-7769d88175df"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6bf1e6c-ae7b-4daf-a8e9-7769d88175df"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-21",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "89f08f8d-68bd-4446-9a10-7718851f57fa",
+            "name": "Household",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "YK@H",
+            "name": "Credit Card",
+            "color": "red"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 4792.1
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "EMI AC",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "EMI AC",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/EMI-AC-2235c2de12bc80959005e627e6891f86",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81f7-a8c7-d1adf880d3ba",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-30",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": ";ps?",
+            "name": "Entertainment",
+            "color": "purple"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "d13ec29f-a024-443d-94ac-0c52f4d48e2a",
+            "name": "Netflix",
+            "color": "orange"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 199
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Netflix",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Netflix",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Netflix-2235c2de12bc81f7a8c7d1adf880d3ba",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81bf-9d72-d58430261a4e",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-22",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": ";ps?",
+            "name": "Entertainment",
+            "color": "purple"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "d13ec29f-a024-443d-94ac-0c52f4d48e2a",
+            "name": "Netflix",
+            "color": "orange"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 199
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Netflix",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Netflix",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Netflix-2235c2de12bc81bf9d72d58430261a4e",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81d2-a153-e55e1d6a8757",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-26",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 706.82
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Wifi",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Wifi",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Wifi-2235c2de12bc81d2a153e55e1d6a8757",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-811e-bfda-dd79d8e1e70d",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-26",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 234
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Bhua",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Bhua",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Bhua-2235c2de12bc811ebfdadd79d8e1e70d",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81a2-8c64-ed2b54bddbe0",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-24",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 239
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Me",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Me",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Me-2235c2de12bc81a28c64ed2b54bddbe0",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81ec-9219-facbf2a57b45",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-23",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 349
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Bhll",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Bhll",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Bhll-2235c2de12bc81ec9219facbf2a57b45",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-817a-b764-f9d4ac1f0da8",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-23",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 799
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Papa",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Papa",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Papa-2235c2de12bc817ab764f9d4ac1f0da8",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81b6-b1c5-cf1fb94af797",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-21",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "89f08f8d-68bd-4446-9a10-7718851f57fa",
+            "name": "Household",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "eb08706a-537e-461f-b14e-1b5b277d7717",
+            "name": "Electricity",
+            "color": "default"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 1260
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Electricity",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Electricity",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Electricity-2235c2de12bc81b6b1c5cf1fb94af797",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8165-aa66-e629d26716b4",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-21",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "cba56e7c-e3c4-4cc1-aa2c-b7d72030b28b",
+            "name": "Premium",
+            "color": "red"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "6558764b-e004-4954-a26d-8dc9a8b79a0e",
+            "name": "CRED",
+            "color": "red"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 4311.88
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Insurance",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Insurance",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Insurance-2235c2de12bc8165aa66e629d26716b4",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81c6-b4c4-fa09dd1b4795",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-21",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "89f08f8d-68bd-4446-9a10-7718851f57fa",
+            "name": "Household",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "56d49f63-cbee-4b48-a665-972414d79542",
+            "name": "Jio",
+            "color": "green"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 706.82
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Wifi",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Wifi",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Wifi-2235c2de12bc81c6b4c4fa09dd1b4795",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8158-9e4f-d91004206c8c",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-17",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "d85c7689-2623-44f4-96c7-b6a2a074539d",
+            "name": "Grocerries",
+            "color": "brown"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "34422833-3e4d-49f0-bd25-a906ddef1ad8",
+            "name": "Swiggy",
+            "color": "red"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 474
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Aata",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Aata",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Aata-2235c2de12bc81589e4fd91004206c8c",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8155-9f4b-ce48df82c717",
+      "created_time": "2025-07-01T19:31:00.000Z",
+      "last_edited_time": "2025-07-01T19:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-17",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "685d8d54-647e-4103-bd0e-1ec9fe3a351f",
+            "name": "Cloths",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "f1d96b07-449f-45bb-9c78-e73c50c58e7b",
+            "name": "Myntra",
+            "color": "pink"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 737
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Cloths",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cloths",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Cloths-2235c2de12bc81559f4bce48df82c717",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-815c-bd76-ff4965732e15",
+      "created_time": "2025-07-01T19:30:00.000Z",
+      "last_edited_time": "2025-07-01T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-12",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "d85c7689-2623-44f4-96c7-b6a2a074539d",
+            "name": "Grocerries",
+            "color": "brown"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "34422833-3e4d-49f0-bd25-a906ddef1ad8",
+            "name": "Swiggy",
+            "color": "red"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 212
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pickle+Sev+Namak",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pickle+Sev+Namak",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Pickle-Sev-Namak-2235c2de12bc815cbd76ff4965732e15",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-819c-afcd-da443f584487",
+      "created_time": "2025-07-01T19:30:00.000Z",
+      "last_edited_time": "2025-07-01T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-12",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "GQqe",
+            "name": "Travel",
+            "color": "blue"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "35afaa6e-bdf0-4932-bb36-9924e5b0ba45",
+            "name": "IRCTC",
+            "color": "red"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 3263.46
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Train Ticket",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Train Ticket",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Train-Ticket-2235c2de12bc819cafcdda443f584487",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8119-93e9-f33fff52fdce",
+      "created_time": "2025-07-01T19:30:00.000Z",
+      "last_edited_time": "2025-07-01T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-09",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 239
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Shital",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Shital",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Shital-2235c2de12bc811993e9f33fff52fdce",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8165-bab2-d4b3de252052",
+      "created_time": "2025-07-01T19:30:00.000Z",
+      "last_edited_time": "2025-07-01T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-08",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "300738d4-de9f-4a80-b442-5efa6eaa2531",
+            "name": "Food",
+            "color": "orange"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2c18aae6-3807-4114-9f65-bc981fd5a066",
+            "name": "Dominoz",
+            "color": "purple"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 486.15
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pizza",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pizza",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Pizza-2235c2de12bc8165bab2d4b3de252052",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-81f7-8852-c6e21d4d7d9f",
+      "created_time": "2025-07-01T19:30:00.000Z",
+      "last_edited_time": "2025-07-01T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-06",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "d85c7689-2623-44f4-96c7-b6a2a074539d",
+            "name": "Grocerries",
+            "color": "brown"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "dbb869aa-2635-4c1e-8ea5-ce817376e55d",
+            "name": "Blinkit",
+            "color": "pink"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 1215
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Oil+Hit",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Oil+Hit",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Oil-Hit-2235c2de12bc81f78852c6e21d4d7d9f",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-8169-8345-c8303afe2b1a",
+      "created_time": "2025-07-01T19:30:00.000Z",
+      "last_edited_time": "2025-07-01T19:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "c94d7571-9f4a-4025-8587-ab623d19e234"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-02",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "489b0c8d-fd63-46bb-b1bf-b20d17d7c179",
+            "name": "Recharge",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "2ca25b97-19b1-467a-bf65-37e4ba36d226",
+            "name": "PayZapp",
+            "color": "brown"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 209
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recharge Me",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recharge Me",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Recharge-Me-2235c2de12bc81698345c8303afe2b1a",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2235c2de-12bc-800d-be71-d95740cba6a9",
+      "created_time": "2025-07-01T18:39:00.000Z",
+      "last_edited_time": "2025-07-01T19:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6bf1e6c-ae7b-4daf-a8e9-7769d88175df"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6bf1e6c-ae7b-4daf-a8e9-7769d88175df"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2235c2de-12bc-80eb-9080-cf9b6e59df45"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "Date": {
+          "id": "TzwR",
+          "type": "date",
+          "date": {
+            "start": "2025-06-21",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Category": {
+          "id": "f%3A~E",
+          "type": "select",
+          "select": {
+            "id": "89f08f8d-68bd-4446-9a10-7718851f57fa",
+            "name": "Household",
+            "color": "gray"
+          }
+        },
+        "Payment Method": {
+          "id": "oaMF",
+          "type": "select",
+          "select": {
+            "id": "YK@H",
+            "name": "Credit Card",
+            "color": "red"
+          }
+        },
+        "Amount": {
+          "id": "r%7BED",
+          "type": "number",
+          "number": 2725.9
+        },
+        "Necessary": {
+          "id": "uSiU",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Expense": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "EMI Fridge",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "EMI Fridge",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/EMI-Fridge-2235c2de12bc800dbe71d95740cba6a9",
+      "public_url": null
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "page_or_database",
+  "page_or_database": {},
+  "request_id": "c81fbe43-64d7-4e77-8dfc-e59721274964"
+}
