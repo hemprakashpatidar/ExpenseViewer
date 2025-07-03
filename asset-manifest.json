@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ExpenseViewer/static/js/main.9dea4deb.js",
+    "main.js": "/ExpenseViewer/static/js/main.aa628567.js",
     "index.html": "/ExpenseViewer/index.html",
-    "main.9dea4deb.js.map": "/ExpenseViewer/static/js/main.9dea4deb.js.map"
+    "main.aa628567.js.map": "/ExpenseViewer/static/js/main.aa628567.js.map"
   },
   "entrypoints": [
-    "static/js/main.9dea4deb.js"
+    "static/js/main.aa628567.js"
   ]
 }
